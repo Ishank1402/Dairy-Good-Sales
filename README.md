@@ -1,12 +1,13 @@
 # Dairy Good Sales Analysis
 Data Link : https://www.kaggle.com/datasets/suraj520/dairy-goods-sales-dataset
 
-# Project Description
+# 📌 Project Description
+
 This Power BI project explores the sales performance of a dairy company.
 The goal is to extract business insights from sales data, identify top-performing products and regions, and track performance trends over time. The dashboard supports filtering by region, product category, and time for dynamic analysis.
 
 
-# Key Performance Indicators (KPIs)
+# 📊 Key Performance Indicators (KPIs)
 
 - Total Sales Revenue – Overall income generated from product sales.
 - Total Units Sold – Total number of dairy products sold.
@@ -16,7 +17,7 @@ The goal is to extract business insights from sales data, identify top-performin
 - Customer Count – Number of unique customers.
 - Monthly Sales Trend – Trends and seasonality over time.
 
-# Process Overview
+# ⚙️ Process Overview
 
 1. Data Loading
    Imported structured sales data into Power BI.
@@ -40,7 +41,7 @@ Visuals:
 
 
 
-# Conclusion & Insights
+# 🧠 Conclusion & Insights
 
 - Cheese and Milk are among the top revenue-generating products.
 - Certain regions outperform others, suggesting areas to focus on for growth.
