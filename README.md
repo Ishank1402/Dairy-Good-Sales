@@ -48,7 +48,7 @@ Visuals:
 - **Seasonal patterns** in sales indicate peak months ideal for promotions.
 - Focus on top regions and high-demand products can improve overall sales and profitability.
 
-# Tools & Technologies
+# 🛠️  Tools & Technologies
 - Power BI
 - DAX (Data Analysis Expressions)
 - Data Visualization
